@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <center>
+    <h1Choose>Choose YouTube Your Fevorite</h1>
+    <div class="equip-slot">
+      <img class="equip-president" width="240px" height="240px"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7iLxTMsz9zeSD9_7unz7DAWyvsAYwkkz7Xg&s" </div><br>
+  </center>
+  <div class="president-list">
+    <img id="animal-a" class="president" width="240px" height="240px"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7iLxTMsz9zeSD9_7unz7DAWyvsAYwkkz7Xg&s" draggable="">
+    <img id="animal-b" class="president" width="240px" height="240px"
+      src="https://server-avatar.nimostatic.tv/201905151557906020221_1629515767298_avatar.png" draggable="">
+    <img id="animal-c" class="president" width="240px" height="240px"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6dyH49DeEURNoXPRHxy2PHPRTfKcC612mIw&s" draggable="">
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
